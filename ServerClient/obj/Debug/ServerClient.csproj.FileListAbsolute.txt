@@ -1,0 +1,10 @@
+C:\Users\Blondinne\source\repos\ServerClient\ServerClient\bin\Debug\ServerClient.exe.config
+C:\Users\Blondinne\source\repos\ServerClient\ServerClient\bin\Debug\ServerClient.exe
+C:\Users\Blondinne\source\repos\ServerClient\ServerClient\bin\Debug\ServerClient.pdb
+C:\Users\Blondinne\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.csprojResolveAssemblyReference.cache
+C:\Users\Blondinne\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.Form1.resources
+C:\Users\Blondinne\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.Properties.Resources.resources
+C:\Users\Blondinne\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.csproj.GenerateResource.cache
+C:\Users\Blondinne\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.csproj.CoreCompileInputs.cache
+C:\Users\Blondinne\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.exe
+C:\Users\Blondinne\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.pdb
